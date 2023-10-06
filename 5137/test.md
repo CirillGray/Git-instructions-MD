@@ -48,3 +48,11 @@
 
 * В Microsoft Learn эти оповещения выглядят как выделенные разным цветом уведомления
 
+## Как добавить ссылку в нашу работу
+
+* Фраза для ссылки должна быть понятной. Иными словами, это должен быть полноценный текст или название страницы, на которую указывает ссылка.
+
+For more information, see the [contributor guide index](https://learn.microsoft.com/ru-ru/contribute/content/how-to-write-links)
+
+For more details, see the [link creation](https://learn.microsoft.com/ru-ru/contribute/content/how-to-write-links)
+
